@@ -36,8 +36,8 @@ El sistema captura las aceleraciones en los ejes **X, Y, Z** generadas por la vi
 
 ## 📁 Estructura del Repositorio
 │
-├── 📂 predictivo/
-│ └── 📂 esp32
+├── 📂 predictivo/ #
+│ └── 📂 esp32     #
 │   └── controlmotor.ino
 │ 
 ├── 📂 data/
