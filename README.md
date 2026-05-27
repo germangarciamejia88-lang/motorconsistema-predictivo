@@ -37,27 +37,27 @@ El sistema captura las aceleraciones en los ejes **X, Y, Z** generadas por la vi
 ## 📁 Estructura del Repositorio
 - │
 - ├── 📂 predictivo/ 
-│ └── 📂 esp32     
-│   └── controlmotor.ino
-│ 
-├── 📂 data/
-│ └── datos1.csv
-│
-├── 📂 scripts/
-│ ├── config.py
-│ ├── clasificador.py
-│ ├── knn_model.py
-│ ├── csv_logger.py
-│ ├── realtime_classifier.py
-│ ├── mqtt_receiver.py
-│ └── __init_.py
-│
-├── 📂 models/
-│ ├── metrics.json
-│ └── knn_model.pkl
-│
-├── main.py 
-└── controlmotor.py 
+- │ └── 📂 esp32     
+- │   └── controlmotor.ino
+- │ 
+- ├── 📂 data/
+- │ └── datos1.csv
+- │
+- ├── 📂 scripts/
+- │ ├── config.py
+- │ ├── clasificador.py
+- │ ├── knn_model.py
+- │ ├── csv_logger.py
+- │ ├── realtime_classifier.py
+- │ ├── mqtt_receiver.py
+- │ └── __init_.py
+- │
+- ├── 📂 models/
+- │ ├── metrics.json
+- │ └── knn_model.pkl
+- │
+- ├── main.py 
+- └── controlmotor.py 
 
 
 ## 🔌 Diagrama de Conexión
